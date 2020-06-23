@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.DonateFrm.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.PasswordFrm.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.PasswordLoginFrm.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.PasswordResetFrm.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.PasswordSite.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat.Properties.Resources.resources
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat-pwd.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\output\win7\debug\xcat-pwd.exe
+C:\Users\Administrator\Desktop\output\win7\debug\xcat-pwd.pdb
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat-pwd.exe
+C:\Users\Administrator\Desktop\s\obj\Debug\xcat-pwd.pdb
